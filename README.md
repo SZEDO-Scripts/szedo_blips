@@ -16,7 +16,7 @@
 
 ## 🛠️ Requirements
 
-- **ESX Framework**
+
 
 ---
 
